@@ -1,0 +1,54 @@
+.black {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 16px; 
+    background: #000;
+    color: #fff;
+}
+
+.text1 h5 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.icons1 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: #fff;
+}
+.icons1 a i {
+    color: #fff;
+}
+
+.pink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightpink;
+    color: #000000;
+    height: 100px; 
+    padding: 0; 
+}
+.logo {
+    justify-content: flex-start; 
+    align-items: center;
+     
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.icons2 {
+    font-size: 20px;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    color: #fff;
+}
+
+.icons2 a i {
+    color: #fff;
+}
