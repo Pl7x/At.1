@@ -103,3 +103,49 @@ nav a:hover {
 .icons2 a i:hover {
     color: #7a003c;
 }
+
+section {
+    background-color: #E0E0E0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 120px 90px;
+    text-align: left;
+    height: 550px;
+}
+.container {
+    max-width: 600px; 
+}
+
+
+.container h1 {
+    font-size: 2.8rem;
+    color: #333333;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.container p {
+    font-size: 1.1rem;
+    color: #555555;
+    line-height: 1.6;
+    font-family: inherit;
+    margin-bottom: 30px;
+}
+
+.container button {
+    background-color: #8C3A4B;
+    color: #FFFFFF;
+    border: none;
+    padding: 15px 35px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.container button:hover {
+    background-color: #732f3d;
+}
+
